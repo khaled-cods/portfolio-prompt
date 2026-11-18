@@ -1,20 +1,6 @@
-# 🌐 اعمل موقع بورتفوليو 3D بالذكاء الاصطناعي — ببلاش
+# 📋 برومبت موقع البورتفوليو 3D
 
-برومبت جاهز تحطه في أي أداة ذكاء اصطناعي (Claude المجاني، ChatGPT، Gemini). هيسألك كام سؤال عن نفسك، ويبنيلك موقع بورتفوليو احترافي فيه شاشة ترحيب وأشكال تلاتية الأبعاد وكروت بتتحرك — **من غير ما تكتب ولا سطر كود**.
-
-![preview](preview.png)
-
-## 🚀 الخطوات
-
-1. دوس على زرار **Copy** اللي فوق البرومبت تحت ⬇️
-2. افتح [Claude](https://claude.ai) (الحساب المجاني كفاية) والصق البرومبت ودوس Enter.
-3. جاوب على الأسئلة (اسمك، شغلك، مشاريعك، لينكاتك...). لو عندك لوجو ابعته في المحادثة.
-4. لما يخلص، دوس **Download** وفك الضغط، ودوس دابل كليك على `index.html`.
-5. ارفعه على النت ببلاش بـ GitHub Pages: repo باسم `اسم-حسابك.github.io` ← ارفع الملفات ← Settings ← Pages ← main ← Save.
-
-> عايز تعدل حاجة؟ ارجع لنفس المحادثة وقوله إيه اللي مش عاجبك، وهو هيبعتلك الملف متعدل.
-
-## 📋 البرومبت
+دوس على زرار **Copy** اللي فوق البرومبت ⬇️ والصقه في [Claude](https://claude.ai) في شات عادي (مش Incognito).
 
 ```text
 You are an expert front-end developer and designer. Your job: interview me, then build me a stunning personal portfolio website with a dark, glowing, 3D look. Follow every rule below exactly.
@@ -29,7 +15,7 @@ PART 1 — THE INTERVIEW (do this first, build nothing yet)
 
 Ask these, in this order:
 1. My full name (as it should appear on the site).
-2. A short first name for the welcome screen (example: "Khaled").
+2. A short first name for the welcome screen (example: "Ahmed").
 3. My job title / what I do in one line (example: "I build websites & apps that grow your business").
 4. A short "About me" paragraph (2–3 sentences). If I don't have one, offer to write it for me from my answers.
 5. My projects: for each one ask its name, a one-line description, and its link (or "no link"). Ask "Do you have another project?" until I say no. If I have no projects, the section shows 2 tasteful "Coming soon" cards.
@@ -138,7 +124,3 @@ Tell me, in my language, in short simple steps:
 
 Now start with question 1.
 ```
-
----
-
-اتعمل بواسطة قناة **DevSpark** ⚡ — لو عملت موقعك، شاركه في كومنتات الفيديو!
